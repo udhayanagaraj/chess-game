@@ -1,5 +1,10 @@
 # chess-game
-simple chess game made in python using pygame framework
+A simple chess game
 
-#To run 
-run game.py
+# made with
+python
+pygame
+
+# Instructions
++ Use pip install -r requirements.txt to install the requirements
++ Use python game.py to run the game.
