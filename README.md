@@ -2,8 +2,8 @@
 A simple chess game
 
 # made with
-python
-pygame
++ python
++ pygame
 
 # Instructions
 + Use pip install -r requirements.txt to install the requirements
